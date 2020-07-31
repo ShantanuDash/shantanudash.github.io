@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Shantanu Dash"
+  avatar           : "/assets/images/biopic.jpg"
   bio              : "I'm a 2nd Year Student of Physics at Dyal Singh College, University of Delhi. I'm interested in all kinds of Physics. I also freelance as a web developer,data analyst and tutor."
   location         : "Somewhere"
   email            : "shantanudash7@gmail.com"

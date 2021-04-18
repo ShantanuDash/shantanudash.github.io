@@ -3,4 +3,4 @@
 
 [The Syllabus is located here](syllabus.md)
 
-[EMP simulation}(emp.ipynb)
+[EMP simulation](emp.ipynb)

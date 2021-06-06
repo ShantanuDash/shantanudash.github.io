@@ -7,7 +7,7 @@ main:
   - title: "Syllabus Sem-4"
     url: /_pages/syllabus
   - title: "Nonlinear"
-    url: /nonlinear/
+    url: http://shantanu.rocks/NonLinear/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

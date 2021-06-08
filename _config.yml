@@ -97,11 +97,11 @@ author:
   avatar           : "/assets/Biopic.jpg"
   bio              : "I'm a 2nd Year Student of Physics at Dyal Singh College, University of Delhi. I'm interested in all kinds of Physics. I am a recipient of the [INSPIRE scholarship](https://online-inspire.gov.in/). I've also been awarded the  [IASc-INSA-NASI Summer Research Fellowship](https://web-japps.ias.ac.in:8443/SEP/SummerFellowships.jsp) in 2021."
   location         : "Somewhere"
-  email            : "shantanudash7@gmail.com"
+  email            : "me@shantanu.rocks"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: shantanudash7@gmail.com"
+      url: "mailto: me@shantanu.rocks"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://shantanudash.github.io"

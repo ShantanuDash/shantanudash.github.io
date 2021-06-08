@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"contrast" # "air", "aqua", "contrast", "dark", "dirt", , "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"neon" #"contrast" # "air", "aqua", "contrast", "dark", "dirt", , "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "A human being"
 name                     : "Shantanu Dash"
 description              : "I'm a 2nd Year Student of Physics at Dyal Singh College, University of Delhi. I'm interested in all kinds of Physics. I am a recipient of the [INSPIRE scholarship](https://online-inspire.gov.in/). I've also been awarded the  [IASc-INSA-NASI Summer Research Fellowship](https://web-japps.ias.ac.in:8443/SEP/SummerFellowships.jsp) in 2021."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https:shantanu.rocks # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

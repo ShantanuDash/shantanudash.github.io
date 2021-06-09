@@ -4,8 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /_pages/about
-  - title: "Syllabus Sem-4"
-    url: /_pages/syllabus
+  - title: "Talks"
+    url: /_talks/
   - title: "Nonlinear"
     url: http://shantanu.rocks/NonLinear/
   # - title: "Sample Collections"

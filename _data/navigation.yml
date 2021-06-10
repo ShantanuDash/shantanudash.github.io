@@ -8,7 +8,7 @@ main:
     url: /_talks/
   - title: "Nonlinear"
     url: http://shantanu.rocks/NonLinear/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "CV"
+    url: http://shantanu.rocks/cv
   # - title: "Sitemap"
   #   url: /sitemap/

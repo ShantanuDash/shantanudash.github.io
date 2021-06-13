@@ -9,4 +9,4 @@
 
 <!--
 **ShantanuDash/ShantanuDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![CV/Resume](https://github.com/ShantanuDash/ShantanuDash/blob/cv/main.png "Check out this CV of mine")
+![CV/Resume](https://github.com/ShantanuDash/shantanudash.github.io/blob/cv/main.png "Check out this CV of mine")

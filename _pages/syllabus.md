@@ -1,8 +1,0 @@
-![](IMG_20201227_212624.jpg)
-![](IMG_20201227_212716.jpg)
-![](IMG_20201227_212820.jpg)
-![](IMG_20201227_212907.jpg)
-![](IMG_20201227_213016.jpg)
-![](IMG_20201227_213107.jpg)
-![](Screenshot_2021-01-11-20-06-19-578_com.google.android.apps.docs.jpg)
-![](Screenshot_2021-01-11-20-08-43-266_com.google.android.apps.docs.jpg)

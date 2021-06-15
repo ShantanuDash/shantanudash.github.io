@@ -5,8 +5,5 @@
 
 [EMP simulation](emp.ipynb)
 -->
-### Hi there it's me Shantanu! See my CV below to know more about me.
+### Hi there it's me Shantanu!Not much in this place now. See my [CV](shantanu.rocks/cv/main.pdf) to know more about me.
 
-<!--
-**ShantanuDash/ShantanuDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![CV/Resume](https://github.com/ShantanuDash/shantanudash.github.io/blob/cv/main.png "Check out this CV of mine")

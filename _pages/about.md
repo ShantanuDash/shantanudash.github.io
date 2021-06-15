@@ -5,5 +5,5 @@
 
 [EMP simulation](emp.ipynb)
 -->
-### Hi there it's me Shantanu!Not much in this place now. See my [CV](shantanu.rocks/cv/main.pdf) to know more about me.
+### Hi there it's me Shantanu!Not much in this place now. See my [CV](https://shantanu.rocks/cv/main.pdf) to know more about me.
 

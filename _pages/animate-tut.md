@@ -552,7 +552,7 @@ AAAAAAAsaWxzdAAAACSpdG9vAAAAHGRhdGEAAAABAAAAAExhdmY1OS40LjEwMA==
 
 ## Resources for IPython library Widgets:
 
-- https://kapernikov.com/ipywidgets-with-matplotlib/
+- [https://kapernikov.com/ipywidgets-with-matplotlib/](https://kapernikov.com/ipywidgets-with-matplotlib/)
 - [Documentation](https://ipywidgets.readthedocs.io/en/latest/)
 - [A great Video demo building a GUI app](https://www.youtube.com/watch?v=f0WmLo8AVxo])
 - [Another great video giving insight to Widgets](https://www.youtube.com/watch?v=VtchVpoSdoQ)

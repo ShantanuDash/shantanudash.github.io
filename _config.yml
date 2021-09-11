@@ -23,7 +23,7 @@ title                    : "Shantanu Dash"
 title_separator          : "-"
 subtitle                 : "Jack of all trades, Master of some" # "A human being"
 name                     : "Shantanu Dash"
-description              : "I'm a 2nd Year Student of Physics at Dyal Singh College, University of Delhi. I'm interested in all kinds of Physics. I am a recipient of the [INSPIRE scholarship](https://online-inspire.gov.in/). I've also been awarded the  [IASc-INSA-NASI Summer Research Fellowship](https://web-japps.ias.ac.in:8443/SEP/SummerFellowships.jsp) in 2021."
+description              : "I'm a 3rd Year Student of Physics at Dyal Singh College, University of Delhi. I'm interested in all kinds of Physics. I am a recipient of the [INSPIRE scholarship](https://online-inspire.gov.in/). I've also been awarded the  [IASc-INSA-NASI Summer Research Fellowship](https://web-japps.ias.ac.in:8443/SEP/SummerFellowships.jsp) in 2021."
 url                      : https:shantanu.rocks # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Shantanu Dash"
   avatar           : "/assets/Biopic.jpg"
-  bio              : "I'm a 2nd Year Student of Physics at Dyal Singh College, University of Delhi. I'm interested in all kinds of Physics. I am a recipient of the [INSPIRE scholarship](https://online-inspire.gov.in/). I've also been awarded the  [IASc-INSA-NASI Summer Research Fellowship](https://web-japps.ias.ac.in:8443/SEP/SummerFellowships.jsp) in 2021."
+  bio              : "I'm a 3rd Year Student of Physics at Dyal Singh College, University of Delhi. I'm interested in all kinds of Physics. I am a recipient of the [INSPIRE scholarship](https://online-inspire.gov.in/). I've also been awarded the  [IASc-INSA-NASI Summer Research Fellowship](https://web-japps.ias.ac.in:8443/SEP/SummerFellowships.jsp) in 2021."
   location         : "Somewhere"
   email            : "me@shantanu.rocks"
   links:
@@ -119,7 +119,7 @@ author:
       url: "https://github.com/shantanudash/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/shantanudash7/"
 
 # Site Footer
 footer:

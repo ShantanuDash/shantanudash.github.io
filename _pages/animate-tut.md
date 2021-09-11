@@ -26,7 +26,7 @@ _This works in any IDE( Spyder, Python3, etc) and Jupyter Notebooks, basically a
 
 If your graphs do not appear in a different window like this:
 
-![image.png](attachment:image.png)
+![image.png](one.png)
 
 Type `%matplotlib qt5` on the console of your IDE or in a code cell of Jupyter Notebook.
 
@@ -62,7 +62,7 @@ for i in range(-4,4):
 
 You can see the output below:
 
-![2021-09-11_13-56-56.gif](attachment:2021-09-11_13-56-56.gif)
+![animation-replay](two.gif)
 
 You could increase the number of loops,decrease the distance between the points or decrease the pause time to make the animation more fluid. _(Think of a flipbook animation for analogy and proper mindset.)_
 
@@ -90,7 +90,3 @@ _Note: widgets only work in notebook environment like Jupyter or Google Colab._
 [Here's my program for transformation of matrices.](https://colab.research.google.com/drive/1vP9nLFEj5oYKx1sJHsykmL6bG8sD0nrK?usp=sharing)
 You can download this too by going to the file tab in Colab Notebook and use in local Jupyter Notebook.
 
-
-```python
-
-```

@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # Animate in Python - 101
 
 ## [Shantanu Dash](https://shantanu.rocks)

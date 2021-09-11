@@ -102,9 +102,9 @@ author:
   location         : "Somewhere"
   email            : "me@shantanu.rocks"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: me@shantanu.rocks"
+    #- label: "Email"
+     # icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto: me@shantanu.rocks"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://shantanudash.github.io"

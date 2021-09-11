@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 ---
 
 # Animate in Python - 101

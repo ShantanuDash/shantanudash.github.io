@@ -3,6 +3,7 @@ layout: splash
 ---
 
 # Talk at AstroRetreat 2020
+[Find about AstroRetreat 2020 here](https://sites.google.com/view/astroretreat)
 
 <iframe src="https://drive.google.com/file/d/1rBaa0V9HGZNMsVl9GOzK7bN-_7CMg3X7/preview" width="640" height="480" allow="autoplay"></iframe>
 

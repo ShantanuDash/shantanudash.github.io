@@ -6,8 +6,8 @@ main:
     url: /_pages/about
   - title: "Talks"
     url: /_talks/
-  - title: "Nonlinear"
-    url: http://shantanu.rocks/NonLinear/
+#   - title: "Nonlinear"
+#     url: http://shantanu.rocks/NonLinear/
   - title: "CV"
     url: http://shantanu.rocks/cv/main.pdf
   # - title: "Sitemap"

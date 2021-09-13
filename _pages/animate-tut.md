@@ -1,7 +1,9 @@
 ---
-layout: splash
+layout: posts
 share: true
 toc: true
+author_profile: false
+read_time: false
 ---
 
 # Animate in Python - 101

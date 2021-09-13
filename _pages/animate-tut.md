@@ -1,5 +1,6 @@
 ---
 layout: splash
+share: true
 ---
 
 # Animate in Python - 101

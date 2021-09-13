@@ -4,9 +4,9 @@ share: true
 toc: true
 author_profile: false
 read_time: false
+related: false
+title: "Animate in Python - 101"
 ---
-
-# Animate in Python - 101
 
 ## [Shantanu Dash](https://shantanu.rocks)
 

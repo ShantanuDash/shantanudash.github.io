@@ -1,6 +1,7 @@
 ---
 layout: splash
 share: true
+toc: true
 ---
 
 # Animate in Python - 101

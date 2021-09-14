@@ -34,7 +34,7 @@ _This works in any IDE( Spyder, Python3, etc) and Jupyter Notebooks, basically a
 
 If your graphs do not appear in a different window like this:
 
-![image.png](one.png)
+![image.png](/_posts/one.png)
 
 Type `%matplotlib qt5` on the console of your IDE or in a code cell of Jupyter Notebook.
 
@@ -70,7 +70,7 @@ for i in range(-4,4):
 
 You can see the output below:
 
-![animation-replay](two.gif)
+![animation-replay](/_posts/two.gif)
 
 You could increase the number of loops,decrease the distance between the points or decrease the pause time to make the animation more fluid. _(Think of a flipbook animation for analogy and proper mindset.)_
 

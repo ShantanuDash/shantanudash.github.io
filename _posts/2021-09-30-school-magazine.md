@@ -20,7 +20,7 @@ So teachers talk and I'll thank my english ma'am from class 9 through 10, Sumita
 I guess that concludes the story, rather abruptly I'd say , now that read through it again. But let the keystrokes of a purely human rant not be sullied by the quest for perfection and let it be.
 
 
-![Magazine Cover](/school-magazine/cover.jpg)
+![Magazine Cover](/_posts/school-magazine/cover.jpg)
 ### The Magazine Cover
 
 So we had a lot of couplets (*dohas*) in our 10th grade. Inspired by them I set on a quest to write my own which would hopefully be read, deciphered and debated upon by the future generations in the eons to come.
@@ -30,10 +30,10 @@ Secretly, well not so secret anymore, I believe the more famous you are the bett
 
 ## The Dohe
 
-![Dohe](/school-magazine/dohe.jpg)
+![Dohe](/_posts/school-magazine/dohe.jpg)
 
 ## The Article
 
-![Article](/school-magazine/sci.jpg)
+![Article](/_posts/school-magazine/sci.jpg)
 
 ---

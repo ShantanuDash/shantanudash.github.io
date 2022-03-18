@@ -8,4 +8,4 @@ permalink: /
 -->
 Hey there! It's me Shantanu, _Jack of all trades, Master of some_. Nice of you to visit this place. Feel free to roam around and explore.
 
-## Contact me at: <a href="mailto:me@shantanu.rocks">me@shantanu.rocks</a>
+## Contact me at: <a href="mailto:me@shantanudash.me">me@shantanudash.me</a>

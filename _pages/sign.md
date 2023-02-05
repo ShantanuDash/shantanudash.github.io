@@ -1,3 +1,14 @@
+---
+layout: posts
+share: true
+toc: true
+author_profile: false
+read_time: false
+related: false
+title: "Sign"
+---
+
+
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
